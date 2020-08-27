@@ -89,7 +89,7 @@ namespace Agenda
         {
             StringBuilder sb = new StringBuilder();
             sb.AppendLine("1. Mostrar orden ascendente");
-            sb.AppendLine("1. Mostrar orden descendente");
+            sb.AppendLine("2. Mostrar orden descendente");
             sb.AppendLine("3. Volver al menu princípal");
             sb.Append("Seleccióne una opción: ");
             Console.WriteLine(sb.ToString());

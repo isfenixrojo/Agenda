@@ -53,7 +53,7 @@ namespace Agenda
             sb.AppendLine("4. Buscar Contacto por Nombre");
             sb.AppendLine("5. Acerca de");
             sb.AppendLine("6. Salir");
-            sb.Append("Seleccione una opción");
+            sb.Append("Seleccione una opción: ");
             Console.Write(sb.ToString());
         }
     }
