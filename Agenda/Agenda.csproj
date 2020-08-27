@@ -45,8 +45,6 @@
     <Compile Include="Agenda.cs" />
     <Compile Include="Contactos.cs" />
     <Compile Include="ControlAgenda.cs" />
-    <Compile Include="IOperaciones.cs" />
-    <Compile Include="Operaciones.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
